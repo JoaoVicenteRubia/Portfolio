@@ -18,7 +18,7 @@ Tenho experiência com projetos que envolvem SQL, Power BI, Python, Spark e Data
 
 ## 📊 Projetos de Análise e Ciência de Dados
 
-### 🎮 [Análise de Video Games com SQL e Power BI](https://github.com/JoaoVicenteRubia/video-game-analytics-sql-powerbi)
+### 🎮 [Análise de Vendas com SQL e Power BI](https://github.com/JoaoVicenteRubia/video-game-analytics-sql-powerbi)
 > Dashboard interativo com visualizações e insights sobre vendas globais de video games.
 - Modelagem dimensional de dados
 - Consultas SQL para sumarização e métricas
